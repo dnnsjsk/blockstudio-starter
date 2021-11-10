@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Blockstudio starter plugin.
+ * Plugin Name: Blockstudio starter plugin
  * Plugin URI: https://blockstudio.dev
  * Description: Register custom blocks using Blockstudio from a plugin.
  * Author: Fabrikat
